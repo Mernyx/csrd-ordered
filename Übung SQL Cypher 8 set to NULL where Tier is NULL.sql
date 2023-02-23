@@ -1,0 +1,2 @@
+UPDATE CY_Focus SET or1 = NULL 
+WHERE CY_Focus.Tier IS NULL

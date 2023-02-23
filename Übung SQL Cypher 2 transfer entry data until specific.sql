@@ -1,0 +1,1 @@
+UPDATE CY_Ability SET A_Name=substr(Ability, 1,instr(Ability,':')-1)

@@ -1,0 +1,1 @@
+SELECT substr(Ability, 1,instr(Ability,':')-1) AS resultat FROM CY_Ability
